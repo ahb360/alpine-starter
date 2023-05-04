@@ -1,0 +1,20 @@
+{
+  "alpine": {
+    "title": "Amir Basiri",
+    "header": {
+      "logo": {
+        "alt": "Amir Basiri"
+      }
+    },
+    "footer": {
+      "credits": {
+        "enabled": false
+      }
+    },
+    "socials": {
+      "twitter": "ahb360",
+      "instagram": "",
+      "github": "ahb360"
+    }
+  }
+}
